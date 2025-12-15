@@ -35,7 +35,7 @@ This project was developed as part of a university game development course to de
 
 ## ▶️ How to Play (Windows)
 
-1. Go to the **Releases** section of this repository
+1. Go to the **Releases** section of this repository: https://github.com/jareynos/Cartians-Legacy
 2. Download the latest Windows build
 3. Extract the `.zip` file
 4. Run `Cartians-Legacy.exe`
